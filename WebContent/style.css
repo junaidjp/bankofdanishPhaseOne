@@ -1,0 +1,22 @@
+ body { 
+   padding:100px;
+    background-color : #B8B8B8;
+    font: 25px arial;
+    text-align: left;
+    font-family: monospace;
+    vertical-align: middle;
+    }
+ 
+ 
+ .container {
+        width: 500px;
+        clear: both;
+        background-color:white;
+    }
+    
+     .container input {
+        width: 100%;
+        clear: both;
+    }
+    
+   
